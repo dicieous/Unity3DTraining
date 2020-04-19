@@ -27,7 +27,7 @@ public class DestroyByContact : MonoBehaviour {
 		}
 	}
 	
-	// Update is called once per frame
+	// UPDATE IS CALLED ONCE PER FRAME
 	void Update () {
 	
 	}
